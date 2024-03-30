@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Starwhooper
-- 👀 I’m interested in 3d print, python, openSCAD, Raspberry Pi
+- 👀 I’m interested in 3d print, Python, OpenSCAD, Raspberry Pi, ESP8266
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ... ask google
 
